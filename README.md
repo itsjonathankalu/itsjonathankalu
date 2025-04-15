@@ -24,6 +24,20 @@ I'm a **Full-Stack Developer** specializing in the **MEVN Stack** (MongoDB, Expr
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-05122A?style=flat&logo=sass&logoColor=white)
 
+### Cloud & Deployment
+
+![Vercel](https://img.shields.io/badge/Vercel-05122A?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-05122A?style=flat&logo=render&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-05122A?style=flat&logo=github&logoColor=white)
+
+### Tools & Software
+
+![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-05122A?style=flat&logo=visual-studio-code&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-05122A?style=flat&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman&logoColor=white)
+
+
 ## Current Stat
 
 <div>
