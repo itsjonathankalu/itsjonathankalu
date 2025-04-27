@@ -6,7 +6,7 @@
 
 ## About
 
-I'm a **Full Stack Developer** specializing in the **MEVN Stack** (MongoDB, Express.js, Vue.js, Node.js) and **MERN Stack**. I'm passionate about building scalable web applications and creating exceptional user experiences.
+I'm a **Full-Stack Developer** specializing in the **MEVN Stack** (MongoDB, Express.js, Vue.js, Node.js) and **MERN Stack**. I'm passionate about building scalable web applications and creating exceptional user experiences.
 
 ## Tech Stack
 
