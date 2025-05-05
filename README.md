@@ -1,58 +1,66 @@
-# Hi there 👋, I'm Jonathan Kalu
+<h1 align="left" id="jonathan-kalu-title">👋 Hey, I'm Jonathan Kalu</h1>
+<h3 align="left">17 • Software Engineer Intern @<a href="https://github.com/veethq" target="_blank">Veet</a> • Aspiring Entrepreneur • Full Stack Web Developer</h3>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=appveyor&logoColor=white)](https://itsn8k.vercel.app/)
-[![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=Github&logoColor=white)](https://github.com/itsn8k)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathankalu)
+<p align="left">
+  <a href="https://github.com/itsn8k">
+    <img src="https://komarev.com/ghpvc/?username=itsn8k" alt="page views" />
+  </a>
+  <a href="https://github.com/itsn8k?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/itsn8k?style=flat&logo=github">
+  </a>
+  <a href="https://github.com/veethq" target="_blank">
+    <img alt="Veet" src="https://img.shields.io/badge/Veet-%2312100E.svg?style=flat&logo=github&logoColor=white">
+  </a>
+</p>
 
-## About
-
-I'm a **Full-Stack Developer** specializing in the **MEVN Stack** (MongoDB, Express.js, Vue.js, Node.js) and **MERN Stack**. I'm passionate about building scalable web applications and creating exceptional user experiences.
-
-## Tech Stack
-
-### Backend Development
-
-![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-05122A?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=white)
-
-### Frontend Development
-
-![Vue.js](https://img.shields.io/badge/Vue.js-05122A?style=flat&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-05122A?style=flat&logo=sass&logoColor=white)
-
-### Cloud & Deployment
-
-![Vercel](https://img.shields.io/badge/Vercel-05122A?style=flat&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-05122A?style=flat&logo=render&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-05122A?style=flat&logo=github&logoColor=white)
-
-### Tools & Software
-
-![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-05122A?style=flat&logo=visual-studio-code&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-05122A?style=flat&logo=notion&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman&logoColor=white)
-
-
-## Current Stat
-
-<div>
-<a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=itsn8k&theme=github-dark-blue&hide_longest_streak=false" alt="GitHub Streak" />
+<a href="#jonathan-kalu-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsn8k&show_icons=true&theme=radical" alt="itsn8k's GitHub Stats" align="right" />
 </a>
-</div>
 
-## Activity Graph
+### 💻 About Me
 
-![Jonathan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsn8k&custom_title=Jonathan's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+- 🔧 Full Stack Developer focused on the **React + Next.js + Nest.js + TypeScript** stack  
+- 🧠 Learning how to build **modern, SEO-ready, scalable apps** without overcomplicating things  
+- 🎨 Exploring UI libraries like **shadcn/ui** to craft beautiful interfaces effortlessly  
+- 🚀 Passionate about creating useful projects that solve real-world problems  
+- 💼 Currently interning at [Veet](https://github.com/veethq)  
+- 🌱 Documenting my journey, one commit at a time  
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+---
 
-![Thanks for visiting!](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
-![Star some repositories](https://img.shields.io/badge/Star%20⭐%20some%20repositories%20you%20find%20helpful!%20-05122A)
-![GitHub followers](https://img.shields.io/github/followers/itsn8k?style=flat&logo=github&color=05122A&labelColor=05122A)
-![Profile Views](https://komarev.com/ghpvc/?username=itsn8kv&style=flat&labelolor=05122A&color=05122A)
+## 🧰 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/shadcn/ui-%23212121.svg?style=flat&logo=tailwindcss&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+## 🚧 Projects In Progress
+
+- 🔗 **[Veet](https://github.com/veethq)** – Platform connecting creators & brands  
+- 🌐 **Personal Portfolio** – Built with Next.js + Tailwind + shadcn/ui (launching soon)  
+- ⚙️ **Starter Boilerplates** – Full stack templates for rapid dev  
+- 🤝 **Open Source Contributions** – PRs and feedback across Node, Vue, and more  
+
+---
+
+## 📬 Let's Connect
+
+- 🧠 Sharing tech tips and tutorials  
+- 🛠️ Building open-source projects  
+- 🌍 Inspiring the next generation of devs  
+
+> _“Simple stacks, powerful results.”_
+
+---
+
