@@ -1,6 +1,6 @@
 ### Hello there 👋🏼
 
-#### 17 • Software Engineer Intern [@joinveet](https://github.com/veethq) • Building the web • Full Stack Dev • Aspiring Entrepreneur
+#### SWE • Full Stack Dev • Building the web
 
 - ⚙️ Tech I use: `.js`, `.ts`, `.vue`, `.ejs`, `.html`, `.css`
 - 🛠️ Current stack: **MongoDB**, **Express.js**, **Vue.js**, **Node.js**, **Vite**, **Nuxt.js**, **Javascript**
