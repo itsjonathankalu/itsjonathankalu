@@ -1,8 +1,7 @@
 ### Hello there 👋🏼
 
-#### Am Jonathan, SWE @[joinveet](https://github.com/veethq) • Full Stack Dev • Building the web
+#### Am Jonathan, Frontend Engineer @[joinveet](https://github.com/veethq) • Software Engineer • Building the web
 
-- ⚙️ Tech I use: `.js`, `.ts`, `.vue`, `.ejs`, `.html`, `.css`
-- 🛠️ Current stack: **MongoDB**, **Express.js**, **Vue.js**, **Node.js**, **Vite**, **Nuxt.js**, **Javascript**
-- 🌱 Learning: **React**, **TypeScript**, **Next.js**, **PostgreSQL**
+- ⚙️ Tech I use: `.jsx`, `.tsx`, `.vue`, `.ejs`, `.html`, `.css`
+- 🛠️ Current stack: **React**, **TypeScript**, **Next.js**, **PostgreSQL**, **MongoDB**, **Express.js**, **Vue.js**, **Node.js**, **Vite**, **Nuxt.js**, **Javascript**
 - 🧠 Always building, always learning
